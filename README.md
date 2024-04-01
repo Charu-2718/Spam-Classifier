@@ -1,5 +1,4 @@
 ![image](https://github.com/Charu-2718/Spam-Classifier/assets/106206014/81adc18a-85c2-4921-b288-b16e2f6ddd41)
-![image](https://github.com/Charu-2718/Spam-Classifier/assets/106206014/e19a42c4-e5c4-4b38-b38a-a59fe1542475)
 ![image](https://github.com/Charu-2718/Spam-Classifier/assets/106206014/824960c6-c6e8-464b-a276-68f7b797b599)
 ![image](https://github.com/Charu-2718/Spam-Classifier/assets/106206014/54f7a4fa-9233-473e-9665-7cccd4d13b41)
 ![image](https://github.com/Charu-2718/Spam-Classifier/assets/106206014/13320176-fc7b-4828-bbd4-a666c30e3e49)
